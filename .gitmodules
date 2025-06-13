@@ -1,0 +1,18 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/ahmedhassanhashem/config-server
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/ahmedhassanhashem/eureka-server
+[submodule "default-gateway"]
+	path = default-gateway
+	url = https://github.com/ahmedhassanhashem/default-gateway
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/ahmedhassanhashem/order-service
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/ahmedhassanhashem/product-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/ahmedhassanhashem/user-service
